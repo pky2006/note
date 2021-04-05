@@ -7,7 +7,5 @@ nav:
             - U.10.2 Sight: 科学/Unit 10/U.10.2 Sight.md
             - U.10.3 Hearing: 科学/Unit 10/U.10.3 Hearing.md
             - U.10.7 The brain and our senses: 科学/Unit 10/U.10.7 The brain and our senses.md
-theme: simplex
-extra:
-  search:
-    language: 'jp'
+theme:
+  name: 'material'
