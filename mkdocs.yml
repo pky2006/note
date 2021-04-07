@@ -7,5 +7,14 @@ nav:
             - U.10.2 Sight: 科学/Unit 10/U.10.2 Sight.md
             - U.10.3 Hearing: 科学/Unit 10/U.10.3 Hearing.md
             - U.10.7 The brain and our senses: 科学/Unit 10/U.10.7 The brain and our senses.md
+    - 中史:
+        - 北宋的积弱与变法:
+            - 北宋的统一和积弱: 中史/北宋的统一和积弱.md
+            - 北宋的衰亡: 中史/北宋的衰亡.md
+            - 北宋的变法: 中史/北宋的变法.md
+        - 南宋偏安:
+            - 南宋偏安: 中史/南宋偏安.md
+            - 南宋衰亡: 中史/南宋衰亡.md
+
 theme:
   name: 'material'
