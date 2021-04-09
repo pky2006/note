@@ -1,4 +1,4 @@
-[Notion](https://www.notion.so/alex27933/U-10-2-Sight-50a87c960f6443d6853bca028ee48b98)      [我来](https://www.wolai.com/mylearn/k74mEhSeGVrsyT2rHj5E2B) 
+[Notion](https://www.notion.so/alex27933/U-10-2-Sight-50a87c960f6443d6853bca028ee48b98)      [我来](https://www.wolai.com/mylearn/k74mEhSeGVrsyT2rHj5E2B)
 
 # U.10.2 Sight
 
@@ -35,15 +35,15 @@
 - jelly-like fluid 玻璃状液
     - maintain the shape of eyeball
     - help focus light
-    - sclera 巩膜
-        - protect eyeball
-    - retina 视网膜
-        - contain light-sensitive cells → detect light & produce signals
-    - blind spot 盲点
-        - spot where optic nerve leaves eyeball
-        - contain no light-sensitive cells
-    - optic nerve 视神经
-        - transmit signals from light-sensitive cells → brain
+- sclera 巩膜
+    - protect eyeball
+- retina 视网膜
+    - contain light-sensitive cells → detect light & produce signals
+- blind spot 盲点
+    - spot where optic nerve leaves eyeball
+    - contain no light-sensitive cells
+- optic nerve 视神经
+    - transmit signals from light-sensitive cells → brain
 
 ---
 
@@ -152,10 +152,10 @@ Difficult to distinguish colours in dark
         - in blurred vision
 - can lead to blindness
 - reason
-- in old age
-- eye injuries 眼疾
-- prolonged exposure 长时间暴露 to sunlight
-- heredity 遗传
+    - in old age
+    - eye injuries 眼疾
+    - prolonged exposure 长时间暴露 to sunlight
+    - heredity 遗传
 - replaced with artificial 人造的 lens through surgery 外科手术
 
 ## 4. Colour-blindness
