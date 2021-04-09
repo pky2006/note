@@ -18,7 +18,7 @@ Frequency
 
 ## 3. How is sound transmitted
 
-- *must **travel through medium
+- **must **travel through medium
     - solid
     - liquid
     - gas
